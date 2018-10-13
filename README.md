@@ -11,7 +11,7 @@ By: Dhrumil Mehta and Janie Velencia
 
 Lesson |Description | File
 -------|------------|--------
-0 | Installation | [`hello.ipynb`](`hello.ipynb`)
-1 | Working With Elections Data | [`pvi-stuff.ipynb`](pvi-stuff.ipynb)
-2 | Thinking About An Upcoming Election | [`polling-analysis.ipynb`](polling-analysis.ipynb)
-3 | Understanding The Aftermath Of An Election | [`election-results.ipynb`](election-results.ipynb)
+0 | Installation | [`hello.ipynb`](./hello.ipynb)
+1 | Working With Elections Data | [`pvi-stuff.ipynb`](./pvi-stuff.ipynb)
+2 | Thinking About An Upcoming Election | [`polling-analysis.ipynb`](./polling-analysis.ipynb)
+3 | Understanding The Aftermath Of An Election | [`election-results.ipynb`](./election-results.ipynb)
