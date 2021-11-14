@@ -1,14 +1,13 @@
-Columbia Transparancy Series
-
-Saturday May 2, 2020
+The Wrangler
+Brown Institute @ Columbia U.
+Sunday Nov 14, 2021
 
 By: Dhrumil Mehta 
 
-* [Lesson Plan](https://docs.google.com/document/d/1UY7anhfhDOCAEn5fN7M8MShp4CEJ49azNasc4yXNq9I/edit)
-* [Slides](https://docs.google.com/presentation/d/1EWy44hZcjc1Mv0QieG7frxNhFtS8YYr1edC3PhFRDCM/edit)
+* [Slides](https://docs.google.com/presentation/d/1FIDxzh81xnbXvBd4TTZvquIfC4QnrECqowQd6wBbR_E/edit?usp=sharing) 
 
 Lesson |Description | File
 -------|------------|--------
 1 | Thinking About An Upcoming Election | [`polling-analysis.ipynb`](./polling-analysis.ipynb)
 
-For additional lessons, see the 2018 branch!
+Forked and updated from: https://github.com/dmil/columbia-transparency-series
