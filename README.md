@@ -12,4 +12,6 @@ Lesson |Description | Python Notebook | Data
 
 Forked and updated from: https://github.com/dmil/columbia-transparency-series
 
-Try it on Google Colab! https://colab.research.google.com/github/dmil/wrangler-polls/blob/master/polling-analysis.ipynb
+Try it on Google Colab!
+
+https://colab.research.google.com/github/dmil/wrangler-polls/blob/master/polling-analysis.ipynb
